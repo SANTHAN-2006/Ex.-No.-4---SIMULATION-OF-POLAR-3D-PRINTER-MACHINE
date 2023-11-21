@@ -1,7 +1,5 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
-### DATE: 
-
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
 
@@ -67,13 +65,8 @@ melts and extrudes the filament to create the printed object.
 material that is used to create the printed object.
 
 
-
 ![EMPD002](https://github.com/sanjaythiyagarajan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119409242/c59772d6-27d7-40ae-9e05-f13476b468de)
 
-
-
-### Name: KARNALA SANTHAN KUMAR
-### Register Number: 23004568
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
